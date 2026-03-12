@@ -1,2 +1,20 @@
-# network-intrusion-detection-ml
-Machine learning pipeline for detecting malicious network traffic using Scikit-Learn with REST API deployment.
+# Network Intrusion Detection ML Pipeline
+
+Machine learning system for detecting malicious network traffic.
+
+## Features
+
+- Data preprocessing
+- Feature engineering
+- Model training
+- REST API deployment
+- MLflow experiment tracking
+
+## Tech Stack
+
+Python  
+Scikit-Learn  
+Flask  
+MLflow  
+MongoDB  
+AWS S3
